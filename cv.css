@@ -8,6 +8,7 @@
 }
 
 .max-width {
+    max-width: 1300px;
     padding: 0 80px;
     margin: auto;
 }
@@ -45,6 +46,7 @@
 
 .navbar .menu li {
     display: inline-block;
+    
 }
 
 .navbar .sticky .logo a span {
@@ -54,15 +56,16 @@
 .navbar .menu li a{
     color: black;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 600;
     margin-left: 25px;
+
 }
 
 .navbar .menu li a:hover {
     color: rgb(245, 244, 244);
 }
 .menuIcon{
-    height: 30px;
+    height: 20px;
     width: 30px;
     cursor: pointer;
     display: none;
@@ -125,10 +128,7 @@ section {
     padding: 100px 0;
 }
 
-.about,
-.qualification,
-.skill,
-.contact {
+.about, .qualification, .skill, .contact{
     font-family: 'Poppins', sans-serif;
 }
 
