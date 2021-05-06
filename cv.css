@@ -64,13 +64,6 @@
 .navbar .menu li a:hover {
     color: rgb(245, 244, 244);
 }
-.menuIcon{
-    height: 20px;
-    width: 30px;
-    cursor: pointer;
-    display: none;
-}
-
 .home {
     display: flex;
     background: url("images/webDevelopmentBackground.ed90dd85.png") no-repeat center;
@@ -500,30 +493,7 @@ excel::before {
 
 
 
-@media (max-width: 1104px) {
-    .home .max-width {
-        margin-left: 0px;
-    }
 
-}
-
-@media (max-width: 947px) {
-    .max-width {
-        padding: 0 50px;
-    }
-
-}
-
-@media (max-width: 991px) {
-    .max-width {
-        padding: 0 50px;
-    }
-     .menuIcon{
-        height: 30px;
-        width: 30px;
-        cursor: pointer;
-        display: block;
-    }
 
 
 
