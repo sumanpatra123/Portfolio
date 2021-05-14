@@ -390,8 +390,7 @@ section {
     width: 60%;
 }
 
-.skill .skill-content .right .word,
-excel::before {
+.skill .skill-content .right .word_excel::before {
     width: 90%;
 }
 
